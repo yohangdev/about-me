@@ -37,10 +37,10 @@
         <div class="flex">
 
           <div class="flex-1 text-center">
-            <a href="https://facebook.com/yohang" target="_blank" class="no-underline text-grey-darker text-5xl">
+            <a href="https://linkedin.com/in/yoga-hanggara" target="_blank" class="no-underline text-grey-darker text-5xl">
               <i class="fab fa-linkedin"></i>
             </a>
-            <div class="text-grey-darker text-sm mt-4">
+            <div class="text-grey-darker text-sm mt-1">
               LinkedIn
             </div>
           </div>
@@ -49,7 +49,7 @@
             <a href="https://medium.com/@yohang88" target="_blank" class="no-underline text-grey-darker text-5xl">
               <i class="fab fa-medium"></i>
             </a>
-            <div class="text-grey-darker text-sm mt-4">
+            <div class="text-grey-darker text-sm mt-1">
               Medium
             </div>
           </div>
@@ -58,7 +58,7 @@
             <a href="https://github.com/yohang88" target="_blank" class="no-underline text-grey-darker text-5xl">
               <i class="fab fa-github"></i>
             </a>
-            <div class="text-grey-darker text-sm mt-4">
+            <div class="text-grey-darker text-sm mt-1">
               Github
             </div>
           </div>
@@ -67,7 +67,7 @@
             <a href="https://facebook.com/yohang" target="_blank" class="no-underline text-grey-darker text-5xl">
               <i class="fab fa-facebook"></i>
             </a>
-            <div class="text-grey-darker text-sm mt-4">
+            <div class="text-grey-darker text-sm mt-1">
               Facebook
             </div>
           </div>
@@ -78,44 +78,52 @@
         
         <div class="w-full sm:w-1/2 lg:w-1/4 px-2 mb-6">
           <div class="max-w rounded overflow-hidden shadow-md">
+            <div class="bg-blue-dark px-6 pt-24 pb-8 text-white text-base">
+              The Coldest Sunset
+            </div>
             <div class="px-6 py-4">
-              <div class="mb-2">The Coldest Sunset</div>
-              <p
-                class="text-grey-darker text-base"
-              >Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+              <p class="text-grey-darker text-sm leading-tight">
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+              </p>
             </div>
           </div>
         </div>
 
         <div class="w-full sm:w-1/2 lg:w-1/4 px-2 mb-6">
           <div class="max-w rounded overflow-hidden shadow-md">
+            <div class="bg-blue-dark px-6 pt-24 pb-8 text-white text-base">
+              The Coldest Sunset
+            </div>
             <div class="px-6 py-4">
-              <div class="mb-2">The Coldest Sunset</div>
-              <p
-                class="text-grey-darker text-base"
-              >Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+              <p class="text-grey-darker text-sm leading-tight">
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+              </p>
             </div>
           </div>
         </div>
 
         <div class="w-full sm:w-1/2 lg:w-1/4 px-2 mb-6">
           <div class="max-w rounded overflow-hidden shadow-md">
+            <div class="bg-blue-dark px-6 pt-24 pb-8 text-white text-base">
+              The Coldest Sunset
+            </div>
             <div class="px-6 py-4">
-              <div class="mb-2">The Coldest Sunset</div>
-              <p
-                class="text-grey-darker text-base"
-              >Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+              <p class="text-grey-darker text-sm leading-tight">
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+              </p>
             </div>
           </div>
         </div>
 
         <div class="w-full sm:w-1/2 lg:w-1/4 px-2 mb-6">
           <div class="max-w rounded overflow-hidden shadow-md">
+            <div class="bg-blue-dark px-6 pt-24 pb-8 text-white text-base">
+              The Coldest Sunset
+            </div>
             <div class="px-6 py-4">
-              <div class="mb-2">The Coldest Sunset</div>
-              <p
-                class="text-grey-darker text-base"
-              >Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+              <p class="text-grey-darker text-sm leading-tight">
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+              </p>
             </div>
           </div>
         </div>
