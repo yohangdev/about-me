@@ -101,11 +101,6 @@
 
               <router-link to="/skills" class="no-underline text-white">Skills</router-link>
             </div>
-            <div class="px-6 py-4">
-              <p class="text-grey-darker text-sm leading-tight">
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-              </p>
-            </div>
           </div>
         </div>
 
@@ -120,11 +115,6 @@
               </div>
 
               <router-link to="/experiences" class="no-underline text-white">Experiences</router-link>
-            </div>
-            <div class="px-6 py-4">
-              <p class="text-grey-darker text-sm leading-tight">
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-              </p>
             </div>
           </div>
         </div>
@@ -141,11 +131,6 @@
 
               <router-link to="/achievements" class="no-underline text-white">Achievements</router-link>
             </div>
-            <div class="px-6 py-4">
-              <p class="text-grey-darker text-sm leading-tight">
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-              </p>
-            </div>
           </div>
         </div>
 
@@ -161,17 +146,13 @@
 
               <router-link to="/extras" class="no-underline text-white">Extras</router-link>
             </div>       
-            <div class="px-6 py-4">
-              <p class="text-grey-darker text-sm leading-tight">
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-              </p>
-            </div>
           </div>
         </div>
 
       </div>
       
     </div>
+
   </div>
 </template>
 
