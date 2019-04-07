@@ -59,12 +59,12 @@
             <div class="bg-blue-dark px-6 pt-10 pb-4 text-white text-base">
               
               <div class="text-center mb-4" style="font-size: 4rem">
-                <router-link to="/about" class="no-underline text-blue-light">
+                <router-link to="/skills" class="no-underline text-blue-light">
                   <i class="fas fa-rocket"></i>
                 </router-link>
               </div>
 
-              <router-link to="/about" class="no-underline text-white">Skills</router-link>
+              <router-link to="/skills" class="no-underline text-white">Skills</router-link>
             </div>
             <div class="px-6 py-4">
               <p class="text-grey-darker text-sm leading-tight">
@@ -79,12 +79,12 @@
             <div class="bg-indigo-dark px-6 pt-10 pb-4 text-white text-base">
               
               <div class="text-center mb-4" style="font-size: 4rem">
-                <router-link to="/about" class="no-underline text-indigo-light">
+                <router-link to="/experiences" class="no-underline text-indigo-light">
                   <i class="fas fa-tasks"></i>
                 </router-link>
               </div>
 
-              <router-link to="/about" class="no-underline text-white">Experiences</router-link>
+              <router-link to="/experiences" class="no-underline text-white">Experiences</router-link>
             </div>
             <div class="px-6 py-4">
               <p class="text-grey-darker text-sm leading-tight">
@@ -99,12 +99,12 @@
             <div class="bg-teal-dark px-6 pt-10 pb-4 text-white text-base">
               
               <div class="text-center mb-4" style="font-size: 4rem">
-                <router-link to="/about" class="no-underline text-teal-light">
+                <router-link to="/achievements" class="no-underline text-teal-light">
                   <i class="fas fa-university"></i>
                 </router-link>
               </div>
 
-              <router-link to="/about" class="no-underline text-white">Achievements</router-link>
+              <router-link to="/achievements" class="no-underline text-white">Achievements</router-link>
             </div>
             <div class="px-6 py-4">
               <p class="text-grey-darker text-sm leading-tight">
@@ -119,12 +119,12 @@
             <div class="bg-orange-dark px-6 pt-10 pb-4 text-white text-base">
               
               <div class="text-center mb-4" style="font-size: 4rem">
-                <router-link to="/about" class="no-underline text-orange-light">
+                <router-link to="/extras" class="no-underline text-orange-light">
                   <i class="fas fa-spa"></i>
                 </router-link>
               </div>
 
-              <router-link to="/about" class="no-underline text-white">Extras</router-link>
+              <router-link to="/extras" class="no-underline text-white">Extras</router-link>
             </div>       
             <div class="px-6 py-4">
               <p class="text-grey-darker text-sm leading-tight">

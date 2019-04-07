@@ -18,6 +18,10 @@
                 <p
                   class="text-sm leading-normal text-grey-dark"
                 >Backend Engineer at Jabar Digital Service<br />Certified Scrum Master (ISM I)</p>
+
+                <p class="text-sm leading-normal text-grey-dark">
+                  <i class="fas fa-map-marker-alt"></i> Bandung, Indonesia
+                </p>
               </div>
               
               <div class="mb-2">
