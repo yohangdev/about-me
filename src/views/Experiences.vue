@@ -8,14 +8,14 @@
       <div v-for="(item, index) in items" v-bind:key="index" class="w-full md:w-5/6 lg:flex mx-auto mb-8">
         <div class="h-48 lg:h-auto lg:w-64 flex-none bg-cover rounded-t-lg lg:rounded-t-none lg:rounded-l-lg text-center overflow-hidden shadow-md" :style="'background-image: url('+item.image+')'">
         </div>
-        <div class="border-r border-b border-l border-grey-light lg:border-l-0 lg:border-t lg:border-grey-light bg-white rounded-b-lg lg:rounded-b-none lg:rounded-r-lg p-4 sm:p-8 sm:py-8 flex flex-col justify-between leading-normal shadow-md">
+        <div class="border-r border-b border-l border-grey-light lg:border-l-0 lg:border-t lg:border-grey-light bg-white rounded-b-lg lg:rounded-b-none lg:rounded-r-lg p-4 sm:p-8 sm:py-8 flex flex-col justify-between w-full leading-normal shadow-md">
           <div>
             <p class="text-base text-grey-darkest font-bold">{{ item.position }}</p>
             <p class="text-base text-grey-darkest mb-2">{{ item.company }}</p>
             <p class="text-sm text-grey-dark">{{ item.work }}</p>
             <p class="text-sm text-grey-dark mb-2">{{ item.location }}</p>
 
-            <p class="text-sm text-black">Part of Development Acceleration Team, digital service unit, initiated by the newly elected Governor of West Java, Ridwan Kamil. The team harnesses tech to deliver public services and to enhance data-driven decision making.</p>
+            <p class="text-sm text-black">{{ item.description }}</p>
           </div>
         </div>
       </div>
@@ -40,6 +40,7 @@ export default {
           company: 'Jabar Digital Service',
           work: 'Mar 2019 - Present',
           location: 'Bandung, Jawa Barat, Indonesia',
+          description: 'Part of Development Acceleration Team, digital service unit, initiated by the newly elected Governor of West Java, Ridwan Kamil. The team harnesses tech to deliver public services and to enhance data-driven decision making.',
           image: 'https://i.imgur.com/1M0DGCA.jpg'
         },
         {
@@ -47,14 +48,16 @@ export default {
           company: 'PT Javan Cipta Solusi, Javanlabs',
           work: 'Jan 2014 - Feb 2019 (5 yrs 2 mos)',
           location: 'Bandung, Jawa Barat, Indonesia',
-          image: 'https://i.imgur.com/1M0DGCA.jpg'
+          description: null,
+          image: 'https://pbs.twimg.com/media/DeAC4b-V0AAMizJ.jpg'
         },
         {
           position: 'Web Developer',
           company: 'PT Gamatechno Indonesia',
           work: 'Jun 2011 - Des 2013 (2 yrs 7 mos)',
           location: 'Yogyakarta, Indonesia',
-          image: 'https://i.imgur.com/1M0DGCA.jpg'
+          description: null,
+          image: 'https://www.gamatechno.com/images/2016_07_11_General_Meeting_1.JPG'
         }
       ]
     }
