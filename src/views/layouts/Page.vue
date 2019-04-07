@@ -28,9 +28,8 @@
           class="no-underline text-sm text-grey-darker px-4 py-2"
         >Back to Home</router-link>
       </div>
-
-
-      <slot></slot>
     </div>
+
+    <slot></slot>
   </div>
 </template>
