@@ -18,8 +18,8 @@
             </div>
 
             <div class="text-right flex-grow py-3">
-              <a href="#" class="bg-grey-light hover:bg-grey py-2 px-4 text-grey-darker text-sm no-underline rounded-full">
-                <i class="fas fa-envelope"></i> Contact me
+              <a href="#" class="bg-grey-light hover:bg-grey p-2 text-grey-darker text-sm no-underline rounded-full">
+                <i class="fas fa-envelope"></i>
               </a>
             </div>
           </div>
