@@ -26,7 +26,7 @@
         <router-link
           to="/"
           class="no-underline text-sm text-grey-darker px-4 py-2"
-        >Back to Home</router-link>
+        ><i class="fas fa-home"></i> Home</router-link>
       </div>
     </div>
 
